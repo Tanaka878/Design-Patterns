@@ -1,4 +1,4 @@
-package org.designPatterns.singleton.BillPugh;
+package designPatterns.singleton.BillPugh;
 
 public class BillPugh {
     private BillPugh() {}

@@ -1,4 +1,4 @@
-package org.designPatterns.singleton.eagerEvaluation;
+package designPatterns.singleton.eagerEvaluation;
 
 public class EagerEvaluation {
 

@@ -1,4 +1,4 @@
-package org.designPatterns.singleton.sychronizedApproach;
+package designPatterns.singleton.sychronizedApproach;
 
 public class SychronizedApproach {
 

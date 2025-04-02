@@ -1,4 +1,4 @@
-package org.designPatterns.singleton.lazy_Evaluation;
+package designPatterns.singleton.lazy_Evaluation;
 
 public class LazyEvaluation {
 

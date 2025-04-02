@@ -1,4 +1,4 @@
-package org.designPatterns.singleton.double_check_locking_principle;
+package designPatterns.singleton.double_check_locking_principle;
 
 public class DoubleCheckingPrinciple {
 

@@ -1,6 +1,6 @@
-package org.designPatterns.singleton;
+package designPatterns.singleton;
 
-import org.designPatterns.singleton.lazy_Evaluation.LazyEvaluation;
+import designPatterns.singleton.lazy_Evaluation.LazyEvaluation;
 
 public class TestSingleton {
 
